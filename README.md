@@ -1,10 +1,12 @@
 # Happy App (React)
 
-
-
 Aplicação web e mobile para o cadastro de orfanatos.
 
 O conteúdo foi desenvolvido seguindo o curso nlw-03-omnistack da [Rocket Seat Education](https://github.com/rocketseat-education)
+
+<p align="center">
+  <img alt="Happy" src=".github/demo-aplicacao.gif" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
